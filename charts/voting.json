@@ -1,0 +1,8 @@
+[
+    { "option": "George Washington", "color": "rgba(255, 99, 132, 0.6)" },
+    { "option": "Abraham Lincoln", "color": "rgba(54, 162, 235, 0.6)" },
+    { "option": "Thomas Jefferson", "color": "rgba(255, 206, 86, 0.6)" },
+    { "option": "Franklin D. Roosevelt", "color": "rgba(75, 192, 192, 0.6)" },
+    { "option": "Theodore Roosevelt", "color": "rgba(153, 102, 255, 0.6)" },
+    { "option": "John F. Kennedy", "color": "rgba(255, 159, 64, 0.6)" }
+]
